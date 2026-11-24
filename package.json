@@ -1,0 +1,12 @@
+{
+  "name": "terminator-trading-prediction",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Terminator Trading Prédiction — analyse technique PWA sur données de marché réelles.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=18" }
+}
